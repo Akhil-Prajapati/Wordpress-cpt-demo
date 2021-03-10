@@ -1,0 +1,31 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.inp{
+    border: none !important;
+    border-bottom: 1px solid gray !important;
+    padding: 5px 10px !important;
+    outline: none !important;
+    padding-bottom: 5px;
+}
+.inp:focus{
+    border:none !important;
+    border-bottom: 1px solid #d1e4dd !important;
+    outline: none !important;
+    box-shadow: 0 0 0 0px #007cba !important;
+}
+.box{
+    border: none !important;
+    border-bottom: 1px solid gray !important;
+    padding: 5px 10px !important;
+    outline: none !important;
+    padding-bottom: 5px;
+    width: 100% !important;
+}
+.box:focus{
+    border:none !important;
+    border-bottom: 1px solid #2acdff !important;
+    outline: none !important;
+    box-shadow: 0 0 0 0px #007cba !important;
+}
